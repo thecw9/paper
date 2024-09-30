@@ -1,0 +1,200 @@
+\begin{thebibliography}{26}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Das et~al.(2017)Das, Sidhu, Zadeh, and Zhang]{das2017novel}
+DAS S, SIDHU T~S, ZADEH M~R~D, et~al.
+\newblock A novel hybrid differential algorithm for turn to turn fault
+  detection in shunt reactors\allowbreak[J].
+\newblock IEEE Transactions on Power Delivery, 2017, 32\allowbreak (6):
+  2537-2545.
+
+\bibitem[Magdaleno-Adame et~al.(2014)Magdaleno-Adame, Escarela-Perez,
+  Olivares-Galvan, Campero-Littlewood, and
+  Ocon-Valdez]{magdaleno2014temperature}
+MAGDALENO-ADAME S, ESCARELA-PEREZ R, OLIVARES-GALVAN J~C, et~al.
+\newblock Temperature reduction in the clamping bolt zone of shunt reactors:
+  Design enhancements\allowbreak[J].
+\newblock IEEE Transactions on Power Delivery, 2014, 29\allowbreak (6):
+  2648-2655.
+
+\bibitem[T{\"u}may et~al.(2017)T{\"u}may, Demirdelen, Bal, Kayaalp,
+  Do{\u{g}}ru, and Aksoy]{tumay2017review}
+T{\"U}MAY M, DEMIRDELEN T, BAL S, et~al.
+\newblock A review of magnetically controlled shunt reactor for power quality
+  improvement with renewable energy applications\allowbreak[J].
+\newblock Renewable and Sustainable Energy Reviews, 2017, 77: 215-228.
+
+\bibitem[Yao et~al.(2015)Yao, Zhao, Li, Chen, Zhao, Zhao, Wang, and
+  Li]{yao2015noninvasive}
+YAO C, ZHAO Z, LI C, et~al.
+\newblock Noninvasive method for online detection of internal winding faults of
+  750 kv ehv shunt reactors\allowbreak[J].
+\newblock IEEE Transactions on Dielectrics and Electrical Insulation, 2015,
+  22\allowbreak (5): 2833-2840.
+
+\bibitem[Vel{\'a}squez et~al.(2019)Vel{\'a}squez and Lara]{velasquez2019root}
+VEL{\'A}SQUEZ R~M~A, LARA J~V~M.
+\newblock Root cause analysis for shunt reactor failure in 500 kv power
+  system\allowbreak[J].
+\newblock Engineering Failure Analysis, 2019, 104: 1157-1173.
+
+\bibitem[Ali et~al.(2023)Ali, Omar, Jaafar, Mohamed,
+  et~al.]{ali2023conventional}
+ALI M~S, OMAR A, JAAFAR A~S~A, et~al.
+\newblock Conventional methods of dissolved gas analysis using oil-immersed
+  power transformer for fault diagnosis: A review\allowbreak[J].
+\newblock Electric Power Systems Research, 2023, 216: 109064.
+
+\bibitem[Wang et~al.(2018)Wang, Li, Gao, Zhang, Wang, and Jin]{wang2018partial}
+WANG Y, LI X, GAO Y, et~al.
+\newblock Partial discharge ultrasound detection using the sagnac
+  interferometer system\allowbreak[J].
+\newblock Sensors, 2018, 18\allowbreak (5): 1425.
+
+\bibitem[Zheng et~al.(2020)Zheng, Cui, and Qi]{zheng2020feasibility}
+ZHENG S, CUI Y, QI B.
+\newblock Feasibility of detecting partial discharge in smoothing reactor using
+  uhf method\allowbreak[C]//\allowbreak
+Proceedings of the 21st International Symposium on High Voltage Engineering:
+  Volume 1.
+\newblock Springer, 2020: 993-1002.
+
+\bibitem[Ilkhechi et~al.(2021)Ilkhechi and Samimi]{ilkhechi2021applications}
+ILKHECHI H~D, SAMIMI M~H.
+\newblock Applications of the acoustic method in partial discharge measurement:
+  A review\allowbreak[J].
+\newblock IEEE Transactions on Dielectrics and Electrical Insulation, 2021,
+  28\allowbreak (1): 42-51.
+
+\bibitem[Gao et~al.(2022)Gao, Xing, Zhang, Xiang, Liu, Liu, Shi, Wang, and
+  Ma]{gao2022early}
+GAO S, XING C, ZHANG Z, et~al.
+\newblock Early warning of high-voltage reactor defects based on
+  acoustic--electric correlation\allowbreak[J].
+\newblock Energies, 2022, 15\allowbreak (19): 7196.
+
+\bibitem[Mnasri et~al.(2022)Mnasri, Rovetta, and Masulli]{mnasri2022anomalous}
+MNASRI Z, ROVETTA S, MASULLI F.
+\newblock Anomalous sound event detection: A survey of machine learning based
+  methods and applications\allowbreak[J].
+\newblock Multimedia Tools and Applications, 2022, 81\allowbreak (4):
+  5537-5586.
+
+\bibitem[Jombo et~al.(2023)Jombo and Zhang]{jombo2023acoustic}
+JOMBO G, ZHANG Y.
+\newblock Acoustic-based machine condition monitoring—methods and
+  challenges\allowbreak[J].
+\newblock Eng, 2023, 4\allowbreak (1): 47-79.
+
+\bibitem[Pang et~al.(2021)Pang, Shen, Cao, and Hengel]{pang2021deep}
+PANG G, SHEN C, CAO L, et~al.
+\newblock Deep learning for anomaly detection: A review\allowbreak[J].
+\newblock ACM computing surveys (CSUR), 2021, 54\allowbreak (2): 1-38.
+
+\bibitem[Chalapathy et~al.(2019)Chalapathy and Chawla]{chalapathy2019deep}
+CHALAPATHY R, CHAWLA S.
+\newblock Deep learning for anomaly detection: A survey\allowbreak[A].
+\newblock 2019.
+
+\bibitem[Shi et~al.(2021)Shi, Zhao, Su, Su, and Yan]{shi2021equipment}
+SHI Z, ZHAO Q, SU L, et~al.
+\newblock Equipment anomaly detection in power grids using deep
+  learning\allowbreak[C]//\allowbreak
+2021 International Conference on Intelligent Computing, Automation and Systems
+  (ICICAS).
+\newblock IEEE, 2021: 271-275.
+
+\bibitem[Suefusa et~al.(2020)Suefusa, Nishida, Purohit, Tanabe, Endo, and
+  Kawaguchi]{AE-AD}
+SUEFUSA K, NISHIDA T, PUROHIT H, et~al.
+\newblock Anomalous sound detection based on interpolation deep neural
+  network\allowbreak[C]//\allowbreak
+ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal
+  Processing (ICASSP).
+\newblock IEEE, 2020: 271-275.
+
+\bibitem[Huang et~al.(2021)Huang, Yang, Wen, Xu, Jiang, Yang, and
+  Wang]{AE-AD-2}
+HUANG C, YANG Z, WEN J, et~al.
+\newblock Self-supervision-augmented deep autoencoder for unsupervised visual
+  anomaly detection\allowbreak[J].
+\newblock IEEE Transactions on Cybernetics, 2021, 52\allowbreak (12):
+  13834-13847.
+
+\bibitem[Duman et~al.(2020)Duman, Bayram, and {\.I}nce]{CAE-AD}
+DUMAN T~B, BAYRAM B, {\.I}NCE G.
+\newblock Acoustic anomaly detection using convolutional autoencoders in
+  industrial processes\allowbreak[C]//\allowbreak
+14th International Conference on Soft Computing Models in Industrial and
+  Environmental Applications (SOCO 2019) Seville, Spain, May 13--15, 2019,
+  Proceedings 14.
+\newblock Springer, 2020: 432-442.
+
+\bibitem[An et~al.(2015)An and Cho]{VAE-AD}
+AN J, CHO S.
+\newblock Variational autoencoder based anomaly detection using reconstruction
+  probability\allowbreak[J].
+\newblock Special lecture on IE, 2015, 2\allowbreak (1): 1-18.
+
+\bibitem[Wu et~al.(2020)Wu, Carsault, Nakamura, and Yoshii]{VAE-AD-2}
+WU Y, CARSAULT T, NAKAMURA E, et~al.
+\newblock Semi-supervised neural chord estimation based on a variational
+  autoencoder with latent chord labels and features\allowbreak[J].
+\newblock IEEE/ACM Transactions on Audio, Speech, and Language Processing,
+  2020, 28: 2956-2966.
+
+\bibitem[Bayram et~al.(2021)Bayram, Duman, and Ince]{SAE-AD}
+BAYRAM B, DUMAN T~B, INCE G.
+\newblock Real time detection of acoustic anomalies in industrial processes
+  using sequential autoencoders\allowbreak[J].
+\newblock Expert Systems, 2021, 38\allowbreak (1): e12564.
+
+\bibitem[Erfani et~al.(2016)Erfani, Rajasegarar, Karunasekera, and
+  Leckie]{ocsvm}
+ERFANI S~M, RAJASEGARAR S, KARUNASEKERA S, et~al.
+\newblock High-dimensional and large-scale anomaly detection using a linear
+  one-class svm with deep learning\allowbreak[J].
+\newblock Pattern Recognition, 2016, 58: 121-134.
+
+\bibitem[Schlegl et~al.(2017)Schlegl, Seeb{\"o}ck, Waldstein, Schmidt-Erfurth,
+  and Langs]{anogan}
+SCHLEGL T, SEEB{\"O}CK P, WALDSTEIN S~M, et~al.
+\newblock Unsupervised anomaly detection with generative adversarial networks
+  to guide marker discovery\allowbreak[C]//\allowbreak
+International conference on information processing in medical imaging.
+\newblock Springer, 2017: 146-157.
+
+\bibitem[Schlegl et~al.(2019)Schlegl, Seeb{\"o}ck, Waldstein, Langs, and
+  Schmidt-Erfurth]{f-anogan}
+SCHLEGL T, SEEB{\"O}CK P, WALDSTEIN S~M, et~al.
+\newblock f-anogan: Fast unsupervised anomaly detection with generative
+  adversarial networks\allowbreak[J].
+\newblock Medical image analysis, 2019, 54: 30-44.
+
+\bibitem[Akcay et~al.(2019)Akcay, Atapour-Abarghouei, and Breckon]{ganomaly}
+AKCAY S, ATAPOUR-ABARGHOUEI A, BRECKON T~P.
+\newblock Ganomaly: Semi-supervised anomaly detection via adversarial
+  training\allowbreak[C]//\allowbreak
+Computer Vision--ACCV 2018: 14th Asian Conference on Computer Vision, Perth,
+  Australia, December 2--6, 2018, Revised Selected Papers, Part III 14.
+\newblock Springer, 2019: 622-637.
+
+\bibitem[Jiang et~al.(2023)Jiang, Zhang, Deng, Fan, and Liu]{AEGAN-AD}
+JIANG A, ZHANG W~Q, DENG Y, et~al.
+\newblock Unsupervised anomaly detection and localization of machine audio: a
+  gan-based approach\allowbreak[C]//\allowbreak
+ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal
+  Processing (ICASSP).
+\newblock IEEE, 2023: 1-5.
+
+\end{thebibliography}
